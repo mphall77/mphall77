@@ -16,6 +16,7 @@ console.log(a+b)
 ```javascript
 //get user input
 const readline = require("readline-sync");
+```
 
-
-
+## Add an image
+![greenscape](https://images.unsplash.com/photo-1501183007986-d0d080b147f9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
