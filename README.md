@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**mphall77/mphall77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Marshaland, where coding is the key to the universe.
 
-Here are some ideas to get you started:
+# Module 1
+## Best 8 weeks of my life!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// this is just a test calculator
+let a = 1;
+let b = 2;
+console.log(a+b)
+```
+
+## Built a personal website using Javascript and readline-sync
+```javascript
+//get user input
+const readline = require("readline-sync");
+
+
+
