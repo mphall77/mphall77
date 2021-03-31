@@ -12,11 +12,16 @@ let b = 2;
 console.log(a+b)
 ```
 
-## Built a personal website using Javascript and readline-sync
+## Built a Game called Snowman using Javascript and readline-sync
 ```javascript
 //get user input
 const readline = require("readline-sync");
 ```
 
-## Add an image
-![greenscape](https://images.unsplash.com/photo-1501183007986-d0d080b147f9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+
+
+
+
+
+
+
